@@ -6,7 +6,7 @@ Trabaja todo desde la terminal integrada de VS Code (menú Terminal → Nueva te
 
 ## 1. Crea tu repositorio desde la plantilla
 
-1. Entra a https://github.com/USUARIO/taller-git-base
+1. Entra a https://github.com/ruly282/taller-git-base
 2. Clic en el botón verde **Use this template** → **Create a new repository**.
 3. Repository name: `tablero-tareas`. Visibilidad: **Public**. Clic en **Create repository**.
 
