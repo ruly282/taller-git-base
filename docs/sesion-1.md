@@ -111,7 +111,7 @@ git push
 - Equipos de 3 (se publican en el grupo).
 - Trae este repositorio listo y tu cuenta de GitHub abierta. No hay que instalar nada más.
 
-## Chuleta
+## Comandos
 
 | Comando | Qué hace |
 |---|---|
