@@ -137,14 +137,7 @@ El README es la portada del proyecto. Junto con el historial de commits y los pu
 
 Peguen la liga en el chat.
 
-## Lo que sigue (panorama)
 
-- **Actions:** pestaña Actions del repositorio. En cada pull request corrió una revisión automática (`.github/workflows/revisar.yml`). Eso es un *pipeline*: en proyectos reales ahí se corren las pruebas y se despliega (CI/CD).
-- **Jira:** la rama y el pull request se ligan a la tarea de Jira y la mueven de columna solos, igual que `Closes #1` cerró la issue.
-- **Herramientas con IA:** GitHub Copilot en VS Code (sugiere código y mensajes de commit), GitKraken (Git visual). Todo lo que hicieron hoy es lo que esas herramientas automatizan: hay que entenderlo para usarlas bien.
-- **Trabajo real:** nadie sube directo a `main` (ramas protegidas); todo entra por pull request con revisión.
-
----
 
 ## Fragmentos
 
