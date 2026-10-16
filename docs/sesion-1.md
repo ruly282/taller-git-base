@@ -2,7 +2,7 @@
 
 **Objetivo:** al terminar tienes tu propio repositorio en GitHub con un proyecto funcionando, un cambio hecho en una rama y fusionado con pull request, y un README en Markdown.
 
-Trabaja todo desde la terminal integrada de VS Code (menú Terminal → Nueva terminal). Cuando termines un paso, pon ✅ en el chat.
+Trabaja todo desde la terminal integrada de VS Code (menú Terminal → Nueva terminal). Cuando termines un paso, pon "OK" en el chat.
 
 ## 1. Crea tu repositorio desde la plantilla
 
