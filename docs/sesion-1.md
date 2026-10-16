@@ -18,7 +18,7 @@ En tu repositorio, botón verde **Code** → copia la URL (HTTPS).
 
 ```
 cd Documentos
-git clone https://github.com/TU-USUARIO/tablero-tareas.git
+git clone https://github.com/ruly282/tablero-tareas.git
 cd tablero-tareas
 code .
 ```
